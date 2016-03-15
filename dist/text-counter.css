@@ -1,0 +1,14 @@
+/*
+ *  text-counter - v1.0.0
+ *  A simple text counter for input and text area 
+ *  https://github.com/EthanCai/text-counter
+ *
+ *  Made by ethan cai <ethancai@qq.com>
+ *  Under MIT License
+ */
+.text-counter {
+    font-size: 12px;
+    clear: both;
+    margin-top: 3px;
+    display: block;
+}
