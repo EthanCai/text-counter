@@ -1,39 +1,39 @@
 {
-  "name": "text-counter",
-  "version": "1.0.0",
-  "description": "A simple text counter for input and text area ",
-  "keywords": [
-    "text-counter"
-  ],
-  "author": "ethan cai <ethancai@qq.com>",
-  "license": "MIT",
-  "url": "https://github.com/EthanCai/text-counter",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/EthanCai/text-counter.git"
-  },
-  "homepage": "https://github.com/EthanCai/text-counter#readme",
-  "bugs": {
-    "url": "https://github.com/EthanCai/text-counter/issues"
-  },
-  "main": "./dist/text-counter.js",
-  "style": [
-    "./dist/text-counter.css"
-  ],
-  "scripts": {
-    "test": "grunt test"
-  },
-  "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-concat": "^1.0.0",
-    "grunt-contrib-cssmin": "^1.0.0",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-qunit": "^1.1.0",
-    "grunt-contrib-uglify": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0",
-    "jquery": "^2.2.1",
-    "jshint": "^2.9.1",
-    "qunitjs": "^1.22.0"
-  }
+    "name": "text-counter",
+    "version": "1.0.0",
+    "description": "A simple text counter for input and text area",
+    "keywords": [
+        "text-counter"
+    ],
+    "author": "ethan cai <ethancai@qq.com>",
+    "license": "MIT",
+    "url": "https://github.com/EthanCai/text-counter",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EthanCai/text-counter.git"
+    },
+    "homepage": "https://github.com/EthanCai/text-counter#readme",
+    "bugs": {
+        "url": "https://github.com/EthanCai/text-counter/issues"
+    },
+    "main": "./dist/text-counter.js",
+    "style": [
+        "./dist/text-counter.css"
+    ],
+    "scripts": {
+        "test": "grunt test"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-cli": "^0.1.13",
+        "grunt-contrib-concat": "^1.0.0",
+        "grunt-contrib-cssmin": "^1.0.0",
+        "grunt-contrib-jshint": "^1.0.0",
+        "grunt-contrib-qunit": "^1.1.0",
+        "grunt-contrib-uglify": "^1.0.0",
+        "grunt-contrib-watch": "^1.0.0",
+        "jquery": "^2.2.1",
+        "jshint": "^2.9.1",
+        "qunitjs": "^1.22.0"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "name": "text-counter",
+    "version": "1.0.0",
+    "description": "A simple text counter for input and text area",
+    "keywords": [
+        "text-counter"
+    ],
+    "authors": [
+        "ethan cai <ethancai@qq.com>"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/EthanCai/text-counter",
+    "ignore": [
+        "node_modules"
+    ],
+    "main": [
+        "dist/text-counter.css",
+        "dist/text-counter.js"
+    ],
+    "dependencies": {
+        "jquery": ">=1.7.0"
+    }
+}
